@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+    font-family: 'Press Start 2P', sans-serif;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    background-color: #1B244A;
+    margin: 20px auto;
+    width: 50%;
+    color: #fff;
+    padding: 60px 10px;
+    text-align: center;
+}
+
+h3 {
+    font-family: sans-serif;
+}
+
+p {
+    font-size: 50px;
+    background-color: #080001;
+    padding: 20px;
+    color: #F94F6D;
+}
+
+.btn-container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.btn {
+    font-family: 'Press Start 2P', sans-serif;
+}
